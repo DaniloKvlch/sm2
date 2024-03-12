@@ -1,0 +1,172 @@
+body{
+    margin: 0; 
+    padding: 0;
+    
+}
+aside{
+    background-color: #A7A7A7;
+    height: 1399px;
+    width:373px;
+    float: left;
+}
+main {
+    background-color: #FFFFFF; 
+    height: 1399px;
+    width:1280px;
+   
+}
+
+.photo{
+    position: absolute;
+    left: 43px;
+    top: 40px;
+    z-index: 1;
+}
+.myPhoto {
+    border-radius: 143px;
+    position: absolute;
+    left: 43px;
+    top: 40px;
+    z-index: 2;
+}
+.osobDani {
+    position: absolute;
+    left: 43px;
+    top: 362px; 
+    color: #FFFFFF; 
+    font-size: 34px; 
+    font-family: 'Rubik One', sans-serif;
+}
+.line {
+    position: absolute;
+   
+    width: 324px;
+    height: 4px;
+    background-color:  #2D2D2D;
+    z-index: 2;
+    border-radius: 16px;
+}
+
+.osobInfo {
+    position: absolute;
+    left: 43px; 
+    top: 446px; 
+}
+
+.infoTitle {
+  
+    color: #FFFFFF;
+    font-family: 'Rubik One', sans-serif;
+    font-size: 20px;
+}
+
+.infoContent {
+    position: relative;
+    top: -20px;
+    margin-bottom: 1px; 
+    color: #FFFFFF;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    
+}
+.interes{
+    position: absolute;
+    left: 43px; 
+    top: 780px; 
+    color: #FFFFFF; 
+    font-size: 34px;
+    font-family: 'Rubik One', sans-serif;
+}
+
+.interesInfo{
+    position: absolute;
+    left: 43px; 
+    top: 864px; 
+}
+
+.language{
+    position: absolute;
+    left: 43px; 
+    top: 1000px; 
+    color: #FFFFFF; 
+    font-size: 34px;
+    font-family: 'Rubik One', sans-serif;
+}
+
+.languageInfo{
+    position: absolute;
+    left: 43px; 
+    top: 1084px; 
+}
+
+.name{
+    position: absolute;
+    left: 500px; 
+    top: -20px; 
+    color: #2D2D2D; 
+    font-size: 60px;
+    font-family: 'Rubik One', sans-serif;
+}
+
+.mainTitle{
+    position: absolute;
+    color: #2D2D2D; 
+    font-size: 34px;
+    font-family: 'Rubik One', sans-serif;
+}
+
+.mainLine {
+    position: absolute;
+   
+    width: 1160px;
+    height: 8px;
+    background-color:  #2D2D2D;
+    z-index: 2;
+    border-radius: 20px;
+}
+
+.dosvidInfo{
+    position: absolute;
+    left: 500px; 
+    top: 250px;
+}
+.mainInfoTitle{
+    color: #2D2D2D;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 1000;
+    
+}
+.mainInfoContent{
+    position: relative;
+    top: -20px;
+    margin-bottom: 1px; 
+    color: #2D2D2D;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    width: 600px;
+    
+}
+
+.additional{
+    position: absolute;
+    color: #2D2D2D;
+   
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    width: 300px;
+}
+
+.dosyagInfo
+{
+    position: absolute;
+    left: 500px; 
+    top: 600px;
+}
+ .osvitaInfo{
+    position: absolute;
+    left: 500px; 
+    top: 1000px;
+ }
+
